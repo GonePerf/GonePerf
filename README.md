@@ -1,4 +1,9 @@
 ### Hi, I am Konrad Gumienny. Check Out my Profile! 👋
+I am in the third year of IT studies. Every day I develop my programming skills because it is my passion. I have a lot of knowledge in the field of relational databases, object-oriented programming and design patterns.
+
+I have been creating web applications in Angular for over half a year. I've already mastered most of the framework's capabilities, and creating a simple CRUD application only takes a few hours. As for the backend, I used Firebase and Laravel.
+
+My skills are confirmed by the obtained certificates, projects on my GitHub and the scholarship that I obtained for good academic results.
 
 <!--
 **GonePerf/GonePerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
