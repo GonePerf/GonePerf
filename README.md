@@ -1,9 +1,12 @@
 ### Hi, I am Konrad Gumienny. Check Out my Profile! 👋
-I am currently writing my diploma thesis at the end of my studies. I am also looking for a university where I could start my master's studies. Thanks to Neti, I gain experience in commercial projects. Every day I develop my programming skills because it is my passion. I have a lot of knowledge in the field of relational databases, object-oriented programming and design patterns.
 
-I have been creating web applications in Angular & PHP Vue & Firebase for over a year.  and creating a simple CRUD application only takes a few hours.
+I am a highly skilled web developer with a strong focus on the concept of application development rather than the technologies used to do so. My passion for programming started at a young age and I have been continuously developing my skills since then. I have a deep understanding of software development concepts and have worked with various languages, frameworks, and tools.
 
-My skills are confirmed by the obtained certificates, projects on my GitHub and the scholarship that I obtained for good academic results.
+ Recently, I had the opportunity to work in a three-person team responsible for building an OTRS module that extends the system with Elasticsearch for a client from Germany. As a member of this team, I assisted in making key decisions during the module design process. I independently developed a frontend module using VueJS that includes a search bar allowing users to easily set search parameters and view results on the screen.
+
+ In addition to my front-end expertise, I have experience in building RESTful APIs and working with Laravel. I am always eager to learn and grow as a developer, and I thrive on new challenges. My strong problem-solving skills, attention to detail, and ability to work well in a team make me a valuable asset to any project.
+
+ Of course, you can contact me about working together at any time. I'd be happy to talk about your project and showcase my experience and skills that can contribute to its success.
 
 <!--
 **GonePerf/GonePerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
