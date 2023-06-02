@@ -10,7 +10,7 @@ I am a highly skilled web developer with a strong focus on the concept of applic
 
 
 <p align="center">
- <img src="https://github.com/GonePerf/GonePerf/assets/48027911/849c1c7d-a6a7-4f53-b20e-7b744381bc84](https://github.com/GonePerf/GonePerf/assets/48027911/bf4852de-2d2a-450d-a1a9-6559b3c0594e" />
+ <img src="https://github.com/GonePerf/GonePerf/assets/48027911/4c6d49eb-2622-4a27-ba98-9f6505a1fba0" />
 </p>
 <!--
 **GonePerf/GonePerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
